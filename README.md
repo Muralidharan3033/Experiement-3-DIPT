@@ -1,5 +1,7 @@
 # Histogram Equalization Using OpenCV (Grayscale & Color Images)
 
+Name : Muralidharan M
+Reg. No : 212223040120
 ---
 
 ## Aim
@@ -146,10 +148,11 @@ plt.show()
 - Enhanced image after histogram equalization is displayed  
 - Histogram of enhanced grayscale image shows improved contrast
 
-<img width="1390" height="692" alt="image" src="https://github.com/user-attachments/assets/908bdb82-ea7f-404e-b28a-4f257f8a2290" />
-<img width="1372" height="736" alt="image" src="https://github.com/user-attachments/assets/a5c2fc3e-6a36-44d2-b06d-30d3d939653e" />
-<img width="1437" height="760" alt="image" src="https://github.com/user-attachments/assets/cfeb1d54-c36a-4c84-aaea-43163f2a9bcc" />
-<img width="1472" height="682" alt="image" src="https://github.com/user-attachments/assets/349ec345-c8c7-488f-9635-f46f074142a2" />
+<img width="529" height="435" alt="image" src="https://github.com/user-attachments/assets/a1384404-3843-4757-a8a7-72f05c0480ee" />
+<img width="578" height="435" alt="image" src="https://github.com/user-attachments/assets/2b9287f7-d5c8-48ac-8c50-1c76e90a424e" />
+<img width="578" height="435" alt="image" src="https://github.com/user-attachments/assets/f796d0e7-2b1c-428c-9dd6-8efcb2527e7d" />
+<img width="529" height="435" alt="image" src="https://github.com/user-attachments/assets/d490069d-9275-4cdb-9c7b-494ebdb9f70e" />
+
 
 ### Color Image Histogram Equalization
 
@@ -157,11 +160,13 @@ plt.show()
 - Histogram of B, G, R channels is plotted  
 - Enhanced image after HSV-based equalization is displayed  
 - Histogram of enhanced image shows better intensity distribution
-  
-<img width="1370" height="587" alt="image" src="https://github.com/user-attachments/assets/74438c27-18d5-42f5-95cc-fa55bdb5a93d" />
-<img width="1256" height="638" alt="image" src="https://github.com/user-attachments/assets/0a711e5b-3534-4230-956c-528cdc71f37c" />
-<img width="1842" height="542" alt="image" src="https://github.com/user-attachments/assets/14f25fe8-23f1-40d1-8c73-7eb14e3025fe" />
-<img width="1856" height="545" alt="image" src="https://github.com/user-attachments/assets/0912228e-2b8c-4fd5-8021-ab934231095b" />
+
+<img width="529" height="435" alt="image" src="https://github.com/user-attachments/assets/209b6ef8-2d74-4dae-966c-2786648ecc14" />
+<img width="578" height="435" alt="image" src="https://github.com/user-attachments/assets/2f0669df-dd38-4772-a6e5-f2b6a3c9e674" />
+<img width="1349" height="416" alt="image" src="https://github.com/user-attachments/assets/7b307fa0-5f01-48c4-99be-5824898b14f8" />
+<img width="1244" height="374" alt="image" src="https://github.com/user-attachments/assets/f92d01dd-aaf5-4267-beba-aaea802e4d31" />
+
+
 
 ---
 
