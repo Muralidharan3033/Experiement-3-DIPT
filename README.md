@@ -1,7 +1,7 @@
 # Histogram Equalization Using OpenCV (Grayscale & Color Images)
 
-Name : Muralidharan M
-Reg. No : 212223040120
+## Name : Muralidharan M
+## Reg. No : 212223040120
 ---
 
 ## Aim
